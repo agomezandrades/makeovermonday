@@ -13,7 +13,7 @@ Every week the data is published in data.world project which you can be access t
 
 2. Analyze the data
 
-Explore the dataset and build your data story with visualizations. You can use whichever tool you prefer.
+Explore the dataset and build your data story with visualizations. You can use whichever tool you prefer. In this repo, I will post the analysis using Python. 
 
 3. Publish the visualizations
 
